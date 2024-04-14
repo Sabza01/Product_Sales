@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Product_Sales", "Product_Sales.rptproj", "{C9783DCB-56E9-49E4-9C90-40C2A26BE5AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9783DCB-56E9-49E4-9C90-40C2A26BE5AE}.Debug|Default.ActiveCfg = Debug
+		{C9783DCB-56E9-49E4-9C90-40C2A26BE5AE}.Debug|Default.Build.0 = Debug
+		{C9783DCB-56E9-49E4-9C90-40C2A26BE5AE}.Debug|Default.Deploy.0 = Debug
+		{C9783DCB-56E9-49E4-9C90-40C2A26BE5AE}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{C9783DCB-56E9-49E4-9C90-40C2A26BE5AE}.DebugLocal|Default.Build.0 = DebugLocal
+		{C9783DCB-56E9-49E4-9C90-40C2A26BE5AE}.Release|Default.ActiveCfg = Release
+		{C9783DCB-56E9-49E4-9C90-40C2A26BE5AE}.Release|Default.Build.0 = Release
+		{C9783DCB-56E9-49E4-9C90-40C2A26BE5AE}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58FC8EE6-C01F-42E8-AF87-394AF57C5BC2}
+	EndGlobalSection
+EndGlobal
